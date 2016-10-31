@@ -7,6 +7,7 @@ public class Controller {
 
 	private PomodoroFrame veiw;
 	private Model model;
+	//private Timer time;
 
 	public Controller(PomodoroFrame veiw, Model model) {
 		this.veiw=veiw;
